@@ -21,5 +21,10 @@ namespace TestGit
         {
             MessageBox.Show("1er bouton");
         }
+
+        private void BT_MAJ_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Maj Annie bouton");
+        }
     }
 }
